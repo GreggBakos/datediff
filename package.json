@@ -1,0 +1,20 @@
+{
+  "name": "DateDifferenceTest",
+  "version": "1.0.0",
+  "description": "Calculate the number of full days elapsed in between the experiment’s start and end dates",
+  "license": "UNLICENSED",
+  "main": "app.js",
+  "scripts": {
+    "datediff": "node app.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "keywords": [],
+  "author": "Gregg bakos",
+  "dependencies": {},
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/npm/cli.git"
+  }
+}
